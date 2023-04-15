@@ -27,3 +27,6 @@ We are working on a bot for gathering Bitcoin perp futures fee by hedging future
 ## Other stuff 
 - https://www.coinglass.com/FundingRate
 - Find good BTCPERP explanation, tldr; funding each 8h, fee based on demand either loners->shorters or other way around  
+
+## Resources
+- https://educationecosystem.com/elliottminns/lK6rL-how-to-build-advanced-cryptocurrency-trading-bot-in-nodejs/
