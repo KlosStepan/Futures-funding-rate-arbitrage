@@ -30,3 +30,4 @@ We are working on a bot for gathering Bitcoin perp futures fee by hedging future
 
 ## Resources
 - https://educationecosystem.com/elliottminns/lK6rL-how-to-build-advanced-cryptocurrency-trading-bot-in-nodejs/
+- (https://www.codementor.io/@liveedutvcontentlead/how-to-build-a-simple-cryptocurrency-trading-bot-in-node-js-jkxtypp5x)
