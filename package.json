@@ -1,0 +1,22 @@
+{
+  "name": "futures-funding-rate-arbitrage",
+  "version": "1.0.0",
+  "description": "Trading bot for gathering perp futures funding fee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KlosStepan/Futures-funding-rate-arbitrage.git"
+  },
+  "keywords": [
+    "futures"
+  ],
+  "author": "Stepan Klos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KlosStepan/Futures-funding-rate-arbitrage/issues"
+  },
+  "homepage": "https://github.com/KlosStepan/Futures-funding-rate-arbitrage#readme"
+}
