@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/KlosStepan/Futures-funding-rate-arbitrage/issues"
   },
-  "homepage": "https://github.com/KlosStepan/Futures-funding-rate-arbitrage#readme"
+  "homepage": "https://github.com/KlosStepan/Futures-funding-rate-arbitrage#readme",
+  "dependencies": {
+    "@binance/connector": "^3.0.0-rc.2"
+  }
 }
